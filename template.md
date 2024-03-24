@@ -1,7 +1,7 @@
 # Template
 ![Template picture](template.jpeg)
 
-[Template source url](https://www.example.com/template)
+[Source](https://www.example.com/template)
 
 ## Ingredients
 - 1 onion
