@@ -1,4 +1,6 @@
 # Jambalaya
+[Source](https://www.youtube.com/watch?v=4AjJpNaebzQ&ab_channel=Ralphthebaker)
+![Jambalaya](jambalaya.jpeg)
 
 ## Ingridienser
 - lök
