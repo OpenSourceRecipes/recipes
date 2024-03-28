@@ -3,13 +3,12 @@
 
 ## Ingredients
 - 4 1/2 dl milk
-- 15 tbsp (90 grams) breadcrumbs
+- 150 g breadcrumbs
 - 1500 g beef or mixed ground meat
-- 1 1/2 yellow onion (150 grams) 
+- 2 yellow onion (250 g) 
 - 3 eggs 
-- 3 tsp salt (18 grams)
+- 25 g salt
 - 3 pinches pepper (1 grams)
-- 1 1/2 tsp sugar (7.5 grams)
 
 ## Guide
 1. Preheat your oven to 200°C (390°F) and line a baking sheet with parchment paper.
