@@ -1,5 +1,5 @@
 # Swedish Meatballs
-![Meatballs](https://sv.wikipedia.org/wiki/K%C3%B6ttbullar#/media/Fil:Kottbullar.jpg)
+![Meatballs](Kottbullar.png)
 
 ## Ingredients
 - 4 1/2 dl milk
