@@ -1,3 +1,6 @@
+indian/stuff
+#rendang
+=======
 ---
 title: Rendang
 date: 2024-03-29
@@ -6,6 +9,7 @@ tags: [indian,curry]
 ---
 
 ![Rendang](https://img.koket.se/standard-mega/rendang-indonesisk-curry.jpg)
+
 
 ### Kryddpasta
 
