@@ -33,7 +33,7 @@ tags: [indian,curry]
 
 ### Pasta
 
-1. Lägg alla ingredienserna till pastan i en mixer och kör till en slät pasta.
+1. Lägg alla ingredienserna till pastan i en mixer och kör till en slät pasta
 
 ### Högrev
 
